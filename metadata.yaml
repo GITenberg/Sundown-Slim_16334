@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '4257'
     url: http://www.gutenberg.org/2009/agents/4257
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16334#Sundown-Slim
 gutenberg_issued: '2005-07-20'
 gutenberg_type: Text
 identifiers:
